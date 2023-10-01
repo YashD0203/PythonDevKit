@@ -1,0 +1,14 @@
+{
+
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+// -----------------------------------------------------
+    "files.autoSave": "onWindowChange",   //(onFocusChange)
+    "files.exclude" : {
+        "**/.git": true,
+        "**/.DS_Store": false
+    },
+// -----------------------------------------------------    
+    "workbench.colorTheme": "Sublime Material Theme - Dark", 
+
+}
